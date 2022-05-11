@@ -1,4 +1,5 @@
-<h1> Prereqs </h1>
+<h3> Prereqs </h3>
+Install Node.js
 
 Installation: 
 
